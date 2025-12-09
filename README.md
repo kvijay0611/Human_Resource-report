@@ -19,7 +19,7 @@ For the **fully interactive experience**, please open the Tableau workbook.
 
 **Overview Dashboard**
 
-![HR Overview Dashboard](human_resource_backend.jpg)
+![HR Overview Dashboard](human_resource_frontend.jpg)
 
 **Employee List / Details Dashboard**
 
