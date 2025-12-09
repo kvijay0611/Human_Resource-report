@@ -45,5 +45,5 @@ For the **fully interactive experience**, please open the Tableau workbook.
 ## Files in This Repository
 
 - `Human_Resource_Chart.twb(x)` – Main Tableau dashboard file.  
-- `images/hr_overview.png` – Screenshot of the Overview dashboard.  
-- `images/hr_details.png` – Screenshot of the Employee List/Details dashboard.  
+- `human_resource_frontend.jpg` – Screenshot of the Overview dashboard.  
+- `human_resource.jpg` – Screenshot of the Employee List/Details dashboard.  
